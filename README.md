@@ -71,4 +71,19 @@
   <img src="https://github.com/hNnicolas/hNnicolas/blob/main/trello.png" alt="Trello" width="50" height="50">
 </a>
 
+<a href="https://vuejs.org/">
+  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/vuejs.png" alt="Vue.js" width="50" height="50">
+</a>
+
+<a href="https://www.khronos.org/webgl/">
+  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/webgl.png" alt="WebGL" width="50" height="50">
+</a>
+
+<a href="https://www.figma.com/">
+  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/figma.png" alt="Figma" width="50" height="50">
+</a>
+
+# Languages in process:
+
+
 
