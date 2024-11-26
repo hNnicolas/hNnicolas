@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Nicolas
+## Welcome to my Github page
+
+![hNnicolas](https://github.com/hNnicolas/hNnicolas/blob/main/Banner%20github.png)
 
 # A passionate frontend developer 
 
