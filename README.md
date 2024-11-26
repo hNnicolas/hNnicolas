@@ -10,7 +10,12 @@
   <li>📫 How to reach me: huang.nicola@gmail.com</li>
 </ul>
 
-# Connect with me:
+## Connect with me:
+
+<a href="https://www.linkedin.com/in/votre-profil-linkedin">
+  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/linkedin.png" alt="LinkedIn" width="50" height="50">
+</a>
+
 
 # Languages and Tools:
 
