@@ -8,7 +8,7 @@
 <ul>
   <li>🌱 I’m currently learning <strong>VueJs</strong>, <strong>WebGL</strong>
   <li>💼 I’m currently looking for my first job or a professional training contract in alternance, with a <strong>4 days/week in company</strong> and <strong>1 day/week of training with OpenClassrooms.</strong></li>
-  <li>📫 How to reach me: huang.nicola@gmail.com</li>
+  <li>📫 How to reach me: <a href="mailto:huang.nicola@gmail.com">huang.nicola@gmail.com</a></li>
 </ul>
 
 ## Connect with me:
