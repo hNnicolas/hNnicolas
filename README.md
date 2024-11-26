@@ -85,5 +85,11 @@
 
 # Languages in process:
 
+<a href="https://www.php.net/">
+  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/php.png" alt="PHP" width="50" height="50">
+</a>
 
+<a href="https://www.java.com/">
+  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/java.png" alt="Java" width="50" height="50">
+</a>
 
