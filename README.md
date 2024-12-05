@@ -1,6 +1,6 @@
 ## Welcome to my Github page
 
-![hNnicolas](https://github.com/hNnicolas/hNnicolas/blob/main/Banner%20github.png)
+![hNnicolas](https://github.com/hNnicolas/hNnicolas/blob/main/Banner_Profil.png)
 
 # A passionate frontend developer 
 
