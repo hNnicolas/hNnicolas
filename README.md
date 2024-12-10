@@ -2,93 +2,65 @@
 
 ![hNnicolas](https://github.com/hNnicolas/hNnicolas/blob/main/Banner_Profil.png)
 
-# A passionate frontend developer 
+# 💫 About Me:
 
 
-<ul>
-  <li>🌱 I’m currently learning <strong>VueJs</strong>, <strong>WebGL</strong>
-  <li>💼 I’m currently looking for my first job or a professional training contract in alternance, with a <strong>4 days/week in company</strong> and <strong>1 day/week of training with OpenClassrooms.</strong></li>
-  <li>📫 How to reach me: <a href="mailto:huang.nicola@gmail.com">huang.nicola@gmail.com</a></li>
-</ul>
+🎓 Récemment diplômé au titre "Développeur web full stack" après avoir effectué une formation en bootcamp de la 3w Académy ! <br>
+🖥️ En recherche active d'un contrat d'alternance ou d'un emploi à distance à temps plein en tant que développeur ! <br>
+🔭 Je perfectionne actuellement mes compétences dans Symphony et Web3 <br>
+💬 N'hésitez pas à me poser des questions sur React / SQL / Javascript / HTML / CSS <br>
+📫 How to reach me: <a href="mailto:huang.nicola@gmail.com">huang.nicola@gmail.com</a> <br>
+🏙️ フランスからのフルリモートでのお仕事にも興味がございますので、お気軽にお問い合わせくださいませ。
+
 
 ## Connect with me:
+N'hésitez pas à me contacter sur les réseaux sociaux:<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huang-nicolas/)
 
-<a href="https://www.linkedin.com/in/huang-nicolas">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/linkedin.png" alt="LinkedIn" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hf_nicolas)
 
-<a href="https://x.com/hf_nicolas">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/twitter.png" alt="Twitter" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hfnicolas_/)
 
-<a href="https://www.instagram.com/hfnicolas_/">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/instagram.png" alt="Instagram" width="50" height="50">
-</a>
+## 🚀 My Projects:
+Explore some of my latest projects:
+
+[![Three.js](https://img.shields.io/badge/Three.js-%2320232a.svg?style=for-the-badge&logo=three.js&logoColor=white)](https://fish-ocean.vercel.app/) - Discover my little animation with shader!
+
+[![WebGL](https://img.shields.io/badge/WebGL-%2320232a.svg?style=for-the-badge&logo=webgl&logoColor=white)](https://3d-coffee-smoke-shader.vercel.app/) - Check out my 3D Shader Coffee!
+
 
 # Languages and Tools:
 
-<a href="https://developer.mozilla.org/fr/docs/Web/HTML">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/html5.png" alt="HTML5" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-<a href="https://developer.mozilla.org/fr/docs/Web/CSS">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/css-3.png" alt="CSS3" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/js.png" alt="JavaScript" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://reactjs.org/">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/React.png" alt="React" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://redux.js.org/">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/redux.png" alt="Redux" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://sass-lang.com/">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/sass.png" alt="Sass" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://nodejs.org/">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/nodejs.png" alt="Node.js" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.mysql.com/">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/mysql.png" alt="MySQL" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.mongodb.com/">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/mongodb.png" alt="MongoDB" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://git-scm.com/">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/git.png" alt="Git" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://trello.com/">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/trello.png" alt="Trello" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.figma.com/">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/figma.png" alt="Figma" width="50" height="50">
-</a>
 
 # Languages in process:
 
-<a href="https://vuejs.org/">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/vuejs.png" alt="Vue.js" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
+[![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)&nbsp;
+[![WebGL](https://img.shields.io/badge/webgl-%23CA3345.svg?style=for-the-badge&logo=webgl&logoColor=white)](https://www.khronos.org/webgl/)&nbsp;
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)&nbsp;
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
-<a href="https://www.khronos.org/webgl/">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/webgl.png" alt="WebGL" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hNnicolas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hNnicolas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hNnicolas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://www.php.net/">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/php.png" alt="PHP" width="50" height="50">
-</a>&nbsp;&nbsp;&nbsp;
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<a href="https://www.java.com/">
-  <img src="https://github.com/hNnicolas/hNnicolas/blob/main/java.png" alt="Java" width="50" height="50">
-</a>
+---
+[![](https://visitcount.itsvg.in/api?id=hNnicolas&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
