@@ -7,7 +7,7 @@
 
 🎓 Récemment diplômé au titre "Développeur web full stack" après avoir effectué une formation en bootcamp de la 3w Académy ! <br>
 🖥️ En recherche active d'un contrat d'alternance ou d'un emploi à distance à temps plein en tant que développeur ! <br>
-🔭 Je perfectionne actuellement mes compétences dans Symphony et Web3 <br>
+🔭 Je perfectionne actuellement mes compétences dans Symphony et Php <br>
 💬 N'hésitez pas à me poser des questions sur React / SQL / Javascript / HTML / CSS <br>
 📫 How to reach me: <a href="mailto:huang.nicola@gmail.com">huang.nicola@gmail.com</a> <br>
 🏙️ フランスからのフルリモートでのお仕事にも興味がございますので、お気軽にお問い合わせくださいませ。
