@@ -11,7 +11,9 @@
 
 🔭 **Je perfectionne actuellement mes compétences** dans **Symfony** et **PHP**  
 💬 N'hésitez pas à me poser des questions sur **React / SQL / Javascript / HTML / CSS**  
-📫 **How to reach me** : [huang.nicola@gmail.com](mailto:huang.nicola@gmail.com)  
+
+📫 **How to reach me** : [huang.nicola@gmail.com](mailto:huang.nicola@gmail.com) 
+
 🏙️ **フランスからのフルリモート**でのお仕事にも興味がございますので、お気軽にお問い合わせくださいませ。  
 
 
