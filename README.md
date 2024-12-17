@@ -1,16 +1,19 @@
-## Welcome to my Github page
+## Welcome to my Github page  
 
-![hNnicolas](https://github.com/hNnicolas/hNnicolas/blob/main/Banner_Profil.png)
+![hNnicolas](https://github.com/hNnicolas/hNnicolas/blob/main/Banner_Profil.png)  
 
-# 💫 About Me:
+# 💫 About Me:  
 
+🎓 **Récemment diplômé** au titre *"Développeur web full stack"* après avoir effectué <br> une formation en bootcamp de la **3w Académy** !  
+<img width="40%" alt="Night Coding" src="https://github.com/hNnicolas/hNnicolas/blob/main/night%20coding.gif" align="right" />  
 
-🎓 Récemment diplômé au titre "Développeur web full stack" après avoir effectué une formation en bootcamp de la 3w Académy ! <br>
-🖥️ En recherche active d'un contrat d'alternance ou d'un emploi à distance à temps plein en tant que développeur ! <br>
-🔭 Je perfectionne actuellement mes compétences dans Symphony et Php <br>
-💬 N'hésitez pas à me poser des questions sur React / SQL / Javascript / HTML / CSS <br>
-📫 How to reach me: <a href="mailto:huang.nicola@gmail.com">huang.nicola@gmail.com</a> <br>
-🏙️ フランスからのフルリモートでのお仕事にも興味がございますので、お気軽にお問い合わせくださいませ。
+🖥️ **En recherche active** d'un contrat d'alternance ou d'un emploi **à distance** à temps plein en tant que développeur !  
+
+🔭 **Je perfectionne actuellement mes compétences** dans **Symfony** et **PHP**  
+💬 N'hésitez pas à me poser des questions sur **React / SQL / Javascript / HTML / CSS**  
+📫 **How to reach me** : [huang.nicola@gmail.com](mailto:huang.nicola@gmail.com)  
+🏙️ **フランスからのフルリモート**でのお仕事にも興味がございますので、お気軽にお問い合わせくださいませ。  
+
 
 
 ## Connect with me:
