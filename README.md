@@ -35,13 +35,11 @@
 </p>
 
 <p align="center">
-🏆 &nbsp;Achivements &nbsp;
+  <a href="https://threejs-journey.com/certificate/view/40975">
+    <img src="https://img.shields.io/badge/-Three.js_Journey-05122A?style=flat&logo=three.js&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-  <a https://threejs-journey.com/certificate/view/40975"><img src="https://img.shields.io/badge/-Three.js_Journey-05122A?style=flat&logo=three.js&logoColor=white"/></a>
-
-</p>
 
 ## 🚀 My Projects:
 Explore some of my latest projects:
