@@ -17,14 +17,24 @@
 🏙️ **フランスからのフルリモート**でのお仕事にも興味がございますので、お気軽にお問い合わせくださいませ。  
 
 
+<p align="center">
+  N'hésitez pas à me contacter sur les réseaux sociaux:
+  <br>
+  <a href="https://discordapp.com/users/1207703769094029313">
+    <img src="https://img.shields.io/badge/-@hnicola7-5562ea?style=flat&logo=Discord&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nicolas-huang/">
+    <img src="https://img.shields.io/badge/-Nicolas%20Huang-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/hf_nicolas/">
+    <img src="https://img.shields.io/badge/-@hf_nicolas-orange?style=flat&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://line.me/ti/p/~hnicolas86">
+    <img src="https://img.shields.io/badge/-hnicolas86-00C300?style=flat&logo=LINE&logoColor=white"/>
+  </a>
+</p>
 
-## Connect with me:
-N'hésitez pas à me contacter sur les réseaux sociaux:<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huang-nicolas/)
 
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hf_nicolas)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hfnicolas_/)
 
 ## 🚀 My Projects:
 Explore some of my latest projects:
