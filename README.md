@@ -66,6 +66,7 @@ Explore some of my latest projects:
 [![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)&nbsp;
 [![WebGL](https://img.shields.io/badge/webgl-%23CA3345.svg?style=for-the-badge&logo=webgl&logoColor=white)](https://www.khronos.org/webgl/)&nbsp;
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)&nbsp;
+[![Symfony](https://img.shields.io/badge/symfony-%23B01D3B.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)&nbsp;
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 # 📊 GitHub Stats:
