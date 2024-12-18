@@ -10,11 +10,11 @@
 🖥️ **En recherche active** d'un contrat d'alternance ou d'un emploi **à distance** à temps plein en tant que développeur !  
 
 🔭 **Je perfectionne actuellement mes compétences** dans **Symfony** et **PHP**  
-💬 N'hésitez pas à me poser des questions sur **React / SQL / Javascript / HTML / CSS**  
+💬 N'hésitez pas à me poser des questions sur **React/ SQL/ Javascript/ HTML/ CSS**  
 
 📫 **How to reach me** : [huang.nicola@gmail.com](mailto:huang.nicola@gmail.com) 
 
-🏙️ **フランスからのフルリモート**でのお仕事にも興味がございますので、お気軽にお問い合わせくださいませ。  
+🏙️ **フランスからのフルリモート**でのお仕事にも興味がございますので<br>お気軽にお問い合わせくださいませ。  
 
 
 <p align="center">
