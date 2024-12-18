@@ -23,7 +23,7 @@
   <a href="https://discordapp.com/users/1207703769094029313">
     <img src="https://img.shields.io/badge/-@hnicola7-5562ea?style=flat&logo=Discord&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/nicolas-huang/">
+   <a href="https://www.linkedin.com/in/huang-nicolas">
     <img src="https://img.shields.io/badge/-Nicolas%20Huang-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/hf_nicolas/">
