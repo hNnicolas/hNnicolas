@@ -34,7 +34,14 @@
   </a>
 </p>
 
+<p align="center">
+🏆 &nbsp;Achivements &nbsp;
+</p>
 
+<p align="center">
+  <a https://threejs-journey.com/certificate/view/40975"><img src="https://img.shields.io/badge/-Three.js_Journey-05122A?style=flat&logo=three.js&logoColor=white"/></a>
+
+</p>
 
 ## 🚀 My Projects:
 Explore some of my latest projects:
@@ -60,7 +67,6 @@ Explore some of my latest projects:
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 
-
 # Languages in process:
 
 [![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)&nbsp;
@@ -68,6 +74,9 @@ Explore some of my latest projects:
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)&nbsp;
 [![Symfony](https://img.shields.io/badge/symfony-%23B01D3B.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)&nbsp;
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hNnicolas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
