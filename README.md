@@ -26,8 +26,8 @@
    <a href="https://www.linkedin.com/in/huang-nicolas">
     <img src="https://img.shields.io/badge/-Nicolas%20Huang-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/hf_nicolas/">
-    <img src="https://img.shields.io/badge/-@hf_nicolas-orange?style=flat&logo=Instagram&logoColor=white"/>
+   <a href="https://line.me/ti/p/~hf_nicolas">
+    <img src="https://img.shields.io/badge/-hf_nicolas-00C300?style=flat&logo=LINE&logoColor=white"/>
   </a>
        <a href="https://x.com/hf_nicolas">
     <img src="https://img.shields.io/badge/-@hf_nicolas-000000?style=flat&logo=X&logoColor=white"/>
