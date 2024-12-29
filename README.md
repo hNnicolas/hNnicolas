@@ -90,5 +90,6 @@ Explore some of my latest projects:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+[![Hits](https://hits.sh/github.com/hNnicolas/Portfolio.v2.svg?label=visitor)](https://hits.sh/github.com/hNnicolas/Portfolio.v2/)
 [![](https://visitcount.itsvg.in/api?id=hNnicolas&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
