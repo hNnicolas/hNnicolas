@@ -1,18 +1,23 @@
-## Welcome to my Github page  
+## Hello! My Name is Nicolas
 
 ![hNnicolas](https://github.com/hNnicolas/hNnicolas/blob/main/Banner_Profil.png)  
 
-# 💫 About Me:  
+# 💫 About Me:
 
 🎓 **Récemment diplômé** au titre *"Développeur web full stack"* après avoir effectué <br> une formation en bootcamp de la **3w Académy** !  
 <img width="40%" alt="Night Coding" src="https://github.com/hNnicolas/hNnicolas/blob/main/night%20coding.gif" align="right" />  
 
 🖥️ **En recherche active** d'un contrat d'alternance ou d'un emploi **à distance** à temps plein en tant que développeur !  
 
+🌱 **Mon parcours unique :**  
+- ☕ **Ancien Maître de thé** dans une maison de luxe reconnue mondialement.  
+- 🌏 **Globe-trotter**, ayant voyagé principalement dans **l'archipel japonais**, où j'ai découvert de nouvelles cultures et perspectives.  
+- 💻 **Reconverti dans le web**, j'allie créativité, rigueur et passion pour le développement.  
+
 🔭 **Je perfectionne actuellement mes compétences** dans **Symfony** et **PHP**  
 💬 N'hésitez pas à me poser des questions sur **React/ SQL/ Javascript/ HTML/ CSS**  
 
-📫 **How to reach me** : [huang.nicola@gmail.com](mailto:huang.nicola@gmail.com) 
+📫 **How to reach me** : [huang.nicola@gmail.com](mailto:huang.nicola@gmail.com)  
 
 🏙️ **フランスからのフルリモート**でのお仕事にも興味がございますので<br>お気軽にお問い合わせくださいませ。  
 
