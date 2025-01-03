@@ -95,5 +95,6 @@ Explore some of my latest projects:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+[![Nicolas profile views](https://u8views.com/api/v1/github/profiles/173882581/views/day-week-month-total-count.svg)](https://u8views.com/github/hNnicolas)
 [![](https://visitcount.itsvg.in/api?id=hNnicolas&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
