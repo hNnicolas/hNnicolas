@@ -49,15 +49,6 @@
   </a>
 </p>
 
-
-## 🚀 My Projects:
-Explore some of my latest projects:
-
-[![Three.js](https://img.shields.io/badge/Three.js-%2320232a.svg?style=for-the-badge&logo=three.js&logoColor=white)](https://fish-ocean.vercel.app/) - Discover my little animation with shader!
-
-[![WebGL](https://img.shields.io/badge/WebGL-%2320232a.svg?style=for-the-badge&logo=webgl&logoColor=white)](https://3d-coffee-smoke-shader.vercel.app/) - Check out my 3D Shader Coffee!
-
-
 # Languages and Tools:
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
