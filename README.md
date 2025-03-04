@@ -47,10 +47,13 @@
  <a href="https://drive.google.com/file/d/1eqAMPhGYVVVBhjXwXpV3bT45RIW2NstD/view?usp=sharing" target="_blank">
         <img src="https://img.shields.io/badge/-Dyma-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
     </a>
-
+<a href="https://dyma.fr/certification/6792124a72">
+    <img src="https://img.shields.io/badge/-Dyma-777BB4?style=flat&logo=php&logoColor=white"/>
+  </a>
   <a href="https://threejs-journey.com/certificate/view/40975">
     <img src="https://img.shields.io/badge/-Three.js_Journey-05122A?style=flat&logo=three.js&logoColor=white"/>
   </a>
+    
 </p>
 
 # Languages and Tools:
