@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
- <a href="https://drive.google.com/file/d/1eqAMPhGYVVVBhjXwXpV3bT45RIW2NstD/view?usp=sharing" target="_blank">
+ <a href="https://dyma.fr/certification/6792124a7213aa73fc8a490e/6213ef21bcbb7ac87308139c" target="_blank">
         <img src="https://img.shields.io/badge/-Dyma-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
     </a>
 <a href="https://dyma.fr/certification/6792124a7213aa73fc8a490e/6077538892e5cf4e20fee6d8">
