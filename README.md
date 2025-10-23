@@ -1,29 +1,22 @@
-## Hello! My Name is Nicolas
+## Bonjour! Et bienvenue sur ma page Github!
 
 ![hNnicolas](https://github.com/hNnicolas/hNnicolas/blob/main/Banner_Profil.png)  
 
 # 💫 About Me:
 
-🎓 **Récemment diplômé** au titre *"Développeur web full stack"* après avoir effectué <br> une formation en bootcamp de la **3w Académy** !  
-<img width="40%" alt="Night Coding" src="https://github.com/hNnicolas/hNnicolas/blob/main/night%20coding.gif" align="right" />  
+🖥️ J'ai travaillé dans l'hôtellerie restauration depuis mon plus jeune âge. <br> Passionné de la tech, j'ai vécu à Tokyo où j'ai eu l'occasion de travailler dans plusieurs domaine. 
+J'ai beaucoup voyager et cela m'a permis d'acquérir la langue japonaise. <br>
 
-🖥️ **En recherche active** d'un contrat d'alternance ou d'un emploi à temps plein en tant que développeur !  
+Aujourd'hui, je me suis stabilisé, reconverti dans le web, diplômé au titre "Développeur web full stack" après avoir effectué une formation en bootcamp avec la **3w Académy**!<br>
 
-🌱 **Mon parcours unique :**  
-- ☕ **Ancien Maître de thé** dans une maison de luxe reconnue mondialement.  
-- 🌏 **Globe-trotter**, ayant voyagé principalement dans **l'archipel japonais**, où j'ai découvert de nouvelles cultures et perspectives.  
-- 💻 **Reconverti dans le web**, j'allie créativité, rigueur et passion pour le développement.  
+Je me spécialise dans l'intélligence artificielle dans un programme de formation au titre de "Concepteur logiciel" proposé par **Openclassroom**
 
-🔭 **Je perfectionne actuellement mes compétences** dans **Symfony** et **PHP**  
-💬 N'hésitez pas à me poser des questions sur **React/ SQL/ Javascript/ HTML/ CSS**  
-
-📫 **How to reach me** : [huang.nicola@gmail.com](mailto:huang.nicola@gmail.com)  
-
-🏙️ **フランスからのフルリモート**でのお仕事にも興味がございますので<br>お気軽にお問い合わせくださいませ。  
+N'hésitez à me contacter pour discuter de vos projets :[dev@contact-hnicolas.fr](mailto:dev@contact-hnicolas.fr)  
+ 
 
 
 <p align="center">
-  N'hésitez pas à me contacter sur les réseaux sociaux:
+  Egalement présent sur les réseaux sociaux suivants:
   <br>
   <a href="https://discordapp.com/users/1207703769094029313">
     <img src="https://img.shields.io/badge/-@hnicola7-5562ea?style=flat&logo=Discord&logoColor=white"/>
