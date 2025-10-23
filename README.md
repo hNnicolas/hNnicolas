@@ -71,15 +71,16 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-
-
-# Languages in process:
-
-[![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)&nbsp;
-[![WebGL](https://img.shields.io/badge/webgl-%23CA3345.svg?style=for-the-badge&logo=webgl&logoColor=white)](https://www.khronos.org/webgl/)&nbsp;
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)&nbsp;
-[![Symfony](https://img.shields.io/badge/symfony-%23B01D3B.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)&nbsp;
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
+[![WebGL](https://img.shields.io/badge/WebGL-%23000000.svg?style=for-the-badge&logo=opengl&logoColor=white)](https://www.khronos.org/webgl/)
+[![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![LLM](https://img.shields.io/badge/LLM-%23FF6F61.svg?style=for-the-badge)](#)
+[![IA](https://img.shields.io/badge/IA-%2300ADEF.svg?style=for-the-badge)](#)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FFAA00.svg?style=for-the-badge)](#)
 
 
 
