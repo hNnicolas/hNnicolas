@@ -7,9 +7,9 @@
 🖥️ J'ai travaillé dans l'hôtellerie restauration depuis mon plus jeune âge. <br> Passionné de la tech, j'ai vécu à Tokyo où j'ai eu l'occasion de travailler dans plusieurs domaine. 
 J'ai beaucoup voyager et cela m'a permis d'acquérir la langue japonaise. <br>
 
-Aujourd'hui, je me suis stabilisé, reconverti dans le web, diplômé au titre "Développeur web full stack" après avoir effectué une formation en bootcamp avec la **3w Académy**!<br>
+Aujourd'hui, reconverti dans le web, diplômé au titre "Développeur web full stack" après avoir effectué une formation en bootcamp avec la **3w Académy**!<br>
 
-Je me spécialise dans l'intélligence artificielle dans un programme de formation au titre de "Concepteur logiciel" proposé par **Openclassroom**
+Je me suis spécialisé dans l'intélligence artificielle après avoir obtenu un diplôme au titre de "Concepteur logiciel" (Bac +3) proposé par **Openclassroom**
 
 N'hésitez à me contacter pour discuter de vos projets :[dev@contact-hnicolas.fr](mailto:dev@contact-hnicolas.fr)  
  
