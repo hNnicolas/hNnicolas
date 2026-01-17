@@ -2,16 +2,29 @@
 
 ![hNnicolas](https://github.com/hNnicolas/hNnicolas/blob/main/Banner_Profil.png)  
 
-# 💫 About Me:
+💫 About Me
 
-🖥️ J'ai travaillé dans l'hôtellerie restauration depuis mon plus jeune âge. <br> Passionné de la tech, j'ai vécu à Tokyo où j'ai eu l'occasion de travailler dans plusieurs domaine. 
-J'ai beaucoup voyager et cela m'a permis d'acquérir la langue japonaise. <br>
+🖥️ Issu de l’hôtellerie-restauration, où j’ai travaillé depuis mon plus jeune âge, j’ai développé une forte culture du travail, de la rigueur et du sens des responsabilités. Passionné par la technologie, j’ai eu l’opportunité de vivre à Tokyo, d’y travailler dans plusieurs domaines et d’acquérir une bonne maîtrise de la langue japonaise. Ces expériences m’ont également apporté une grande capacité d’adaptation et une ouverture internationale.
 
-Aujourd'hui, reconverti dans le web, diplômé au titre "Développeur web full stack" après avoir effectué une formation en bootcamp avec la **3w Académy**!<br>
+💻 Après une longue carrière dans la restauration, j’ai fait le choix d’une reconversion professionnelle dans le développement web. Un véritable virage, assumé, qui m’a conduit à reprendre des études et à me former intensivement.
+Je suis diplômé du titre Développeur Web Full Stack après un bootcamp à la 3W Academy, puis je me suis spécialisé dans les domaines de la data et de l’intelligence artificielle en obtenant le titre Concepteur Logiciel (Bac +3) chez OpenClassrooms.
 
-Je me suis spécialisé dans l'intélligence artificielle après avoir obtenu un diplôme au titre de "Concepteur logiciel" (Bac +3) proposé par **Openclassroom**
+🧠 Ce parcours m’a appris à travailler avec méthode et exigence dans un environnement technique complexe. Habitué aux contextes sous pression, à la gestion des priorités et au respect des délais, j’applique aujourd’hui cette même discipline dans la tech, notamment sur des sujets liés à l’IA, à la donnée et à la qualité applicative.
 
-N'hésitez à me contacter pour discuter de vos projets :[dev@contact-hnicolas.fr](mailto:dev@contact-hnicolas.fr)  
+🚀 Je suis quelqu’un de volontaire et investi : j’apprends en continu, je pratique, je fais de la veille et je cherche toujours à comprendre en profondeur les sujets que je traite. Je ne me contente pas du minimum, je cherche à progresser et à apporter une réelle valeur aux projets et aux équipes.
+
+💡 Ce que je peux apporter
+
+Une éthique de travail solide
+
+Une forte capacité d’adaptation
+
+Une posture humble, engagée et fiable
+
+Une volonté réelle de contribuer efficacement aux projets et aux équipes
+
+📫 N’hésitez pas à me contacter pour échanger ou collaborer
+<br> 👉 [dev@contact-hnicolas.fr](mailto:dev@contact-hnicolas.fr)  
  
 
 
