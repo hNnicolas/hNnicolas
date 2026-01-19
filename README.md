@@ -39,10 +39,6 @@ Une volonté réelle de contribuer efficacement aux projets et aux équipes
   </a>
    <a href="https://line.me/ti/p/~hf_nicolas">
     <img src="https://img.shields.io/badge/-hf_nicolas-00C300?style=flat&logo=LINE&logoColor=white"/>
-  </a>
-       <a href="https://x.com/hf_nicolas">
-    <img src="https://img.shields.io/badge/-@hf_nicolas-000000?style=flat&logo=X&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
