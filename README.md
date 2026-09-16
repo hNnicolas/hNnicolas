@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/hNnicolas/hNnicolas/blob/main/Banner_Profil.png" alt="Nicolas Huang banner" width="100%"/>
+<img src="https://github.com/hNnicolas/hNnicolas/blob/main/banner.jpeg" alt="Nicolas Huang banner" width="100%"/>
 
 # Salut, moi c'est Nicolas 👋
 
